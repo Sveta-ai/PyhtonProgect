@@ -9,7 +9,7 @@ print(float("123.456")) # "4st program"
 print(123.456*10)
 print(int(1234.56))
 print(1234%10)
-
+print()
 
 
 
